@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_maximalist_technological_anxiety",
+  "title": "The River Spits Error Codes",
+  "tagline": "When the land's song is overwritten by data, one woman must hack the old ways to survive the new.",
+  "target_words": 70000,
+  "actual_words": 73636,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Cybernetic Ancestral Memory",
+    "The Land as a Living Network",
+    "Technological Ghosts & Colonial Hauntings",
+    "Resistance Through Hybrid Knowledge"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ptarmigan Walk",
+      "words": 3068
+    },
+    {
+      "ch": 2,
+      "title": "Memory of Mint",
+      "words": 3068
+    },
+    {
+      "ch": 3,
+      "title": "Solder and Dread",
+      "words": 3068
+    },
+    {
+      "ch": 4,
+      "title": "The Council's Fiber-Optic Roots",
+      "words": 3068
+    },
+    {
+      "ch": 5,
+      "title": "The Ghost in the Drone",
+      "words": 3068
+    },
+    {
+      "ch": 6,
+      "title": "Data-Chip Offering",
+      "words": 3068
+    },
+    {
+      "ch": 7,
+      "title": "The Screaming Feed",
+      "words": 3068
+    },
+    {
+      "ch": 8,
+      "title": "Conversation with Ice",
+      "words": 3068
+    },
+    {
+      "ch": 9,
+      "title": "The Settlement's Yellow Gash",
+      "words": 3068
+    },
+    {
+      "ch": 10,
+      "title": "Uncle Tom's Convergence",
+      "words": 3068
+    },
+    {
+      "ch": 11,
+      "title": "Rewiring the Satellite Dish",
+      "words": 3068
+    },
+    {
+      "ch": 12,
+      "title": "The Forgotten Treaty Cache",
+      "words": 3068
+    },
+    {
+      "ch": 13,
+      "title": "First Thaw Song",
+      "words": 3068
+    },
+    {
+      "ch": 14,
+      "title": "The Black Seam Opens",
+      "words": 3068
+    },
+    {
+      "ch": 15,
+      "title": "Proximity Sensor Blues",
+      "words": 3068
+    },
+    {
+      "ch": 16,
+      "title": "Spruce Grove Sanctuary",
+      "words": 3068
+    },
+    {
+      "ch": 17,
+      "title": "Translation Patch Failure",
+      "words": 3068
+    },
+    {
+      "ch": 18,
+      "title": "Crawler-Tread Scars",
+      "words": 3068
+    },
+    {
+      "ch": 19,
+      "title": "Everything Can Be Turned",
+      "words": 3068
+    },
+    {
+      "ch": 20,
+      "title": "The Ulcerating Hum",
+      "words": 3068
+    },
+    {
+      "ch": 21,
+      "title": "Beaded Pouch Encryption",
+      "words": 3068
+    },
+    {
+      "ch": 22,
+      "title": "Sodium Arc Shadows",
+      "words": 3068
+    },
+    {
+      "ch": 23,
+      "title": "The Land is a Road",
+      "words": 3068
+    },
+    {
+      "ch": 24,
+      "title": "The Wrongness in Her Teeth",
+      "words": 3068
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'listens' to a corrupted data-stream from a natural feature (a mountain, a glacier, a forest) and must interpret its error codes as a warning or a message.",
+      "Create a character who is a 'techno-traditional' artisan, crafting vital tools from a fusion of scavenged high-tech components and ancestral materials and methods.",
+      "Imagine a 'convergence' structure—a home, a meeting place, a vehicle—that physically embodies the clash and fusion of worlds. Describe it from the inside.",
+      "Write a dialogue where a elder explains a concept of 'ghosts' or 'spirits' to a tech-savvy younger person, using the behavior of drones, data-packets, or AI as a metaphor."
+    ],
+    "technical": [
+      "Design a speculative interface for Kiona's implant: a non-extractive UI that translates environmental data into song, story, or tactile feedback, respecting data sovereignty.",
+      "Prototype a 'Resilience Network' concept: a decentralized, low-power mesh network protocol that uses the landscape itself (rock formations, water, permafrost) as part of its infrastructure, designed to be invisible to standard scans."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "N. K. Jemisin",
+      "William Gibson",
+      "Leslie Marmon Silko",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A young indigenous woman with cybernetic circuitry glowing beneath her skin like ritual tattoos reaches into the swirling, corrupted data-stream of a river, her hand merging with both water and luminous error codes, within a dense forest where tree roots pulse with fiber-optic light and ancient petroglyphs flicker with corrupted holograms, in the atmospheric style of contemporary digital painters like Android Jones and the textured, haunted environmental art of Caspar David Friedrich, book cover framing, centered and intimate composition viewed from a low angle looking up at the determined protagonist, dramatic and volumetric lighting with a stark contrast between the cold, electric blues and violent reds of the error codes and the warm, bioluminescent golds and earthy browns of the ancestral network, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
