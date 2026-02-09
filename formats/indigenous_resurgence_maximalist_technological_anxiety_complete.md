@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 Kiona’s implant was a week behind on its translation patch, so the river’s data-stream wasn’t singing the old songs anymore—it was spitting error codes in a dead colonial syntax. The council’s new fiber-optic roots, pulsing beneath the bank, had rerouted the ancestral chatter into a raw, screaming feed of satellite debris and forgotten treaties. She could feel the wrongness in her teeth.
@@ -122,6 +124,8 @@ He looked at the tangled, beautiful mess of wood and wire. “I call it the Thro
 Kiona stepped back into the night. The Throat. She liked it. She looked at the glaring wound of the excavation, then up at the stars, sharp and clear above the spruce. The river would be quieter now, the ice settling into its nightly silence. She had a longer, darker walk home. And a new kind of listening to do.
 
 She touched the data-chip in her pouch. It was no longer just a piece of their world. It was a seed. Now they had to plant it in the belly of the beast, and see what strange, wild fruit would grow.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -254,6 +258,8 @@ The old woman was silent for a long time. The wind fluted. The stone under Kiona
 Kiona packed up the device, her hands trembling. The data-chip in her pouch felt heavier than ever. They had come for a story and found a seismic charge. As she followed her grandmother’s tracks down the darkening slope, the grinding drone still seemed to echo in her skull, a new and terrible rhythm. The land wasn’t just speaking.
 
 It was growling.
+
+# Chapter 3
 
 ## CHAPTER 3
 
